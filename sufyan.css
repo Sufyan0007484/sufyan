@@ -1,0 +1,54 @@
+
+.links {
+
+color: blue;
+text-decoration: none;
+
+}
+
+
+.sufyan{
+
+margin-right: 500px;
+
+
+}
+
+.khan{
+    font-style: inherit;
+
+margin-top: 150px;
+color: red ;
+
+}
+
+.skill{
+font-style: bold ;
+color: blue;
+
+
+
+}
+
+
+img{
+
+flex: 1;    
+padding: 15px;
+text-align: right;
+}
+.image img {
+max-width: 270px;
+border-radius: 90%;
+box-shadow: 0 7px color(srgb red green blue);
+border-width: 15px;    
+}
+
+.paragraph{
+
+text-align: start;
+
+
+}
+
+
